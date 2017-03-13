@@ -6,7 +6,7 @@ target 'Instagram' do
   use_frameworks!
 
   # Pods for Instagram
-  pod 'Parse', :git => 'https://github.com/ParsePlatform/Parse-SDK-iOS-OSX.git'
-  pod 'ParseUI', :git => 'https://github.com/ParsePlatform/ParseUI-iOS.git'
-  pod 'PKHUD', :git => 'https://github.com/pkluz/PKHUD.git'
+  pod 'Parse'
+  pod 'ParseUI'
+  pod 'PKHUD'
 end
